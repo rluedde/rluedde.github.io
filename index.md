@@ -1,15 +1,22 @@
 
-## [Linear regression and k-means from scrath in numpy](https://github.com/rluedde/ml_algorithms)
+## [Linear regression and k-means clustering with numpy](https://github.com/rluedde/ml_algorithms)
 * Gained a deeper understanding of how machine learning algorithms work
 * Implemented gradient descent and differentiation as methods of LR paramater estimation
 * Learned about n-dimensional space and matrix algebra/calculus
+
+**IMAGE OF MY CLUSTERING SIDE BY SIDE WITH THE ACTUAL CLUSTERS!!!**
 
 ## [Sudoku solver/game](https://github.com/rluedde/sudoku)
 * Implemented a backtracking algorithm to solve sudoku puzzles
 * Created a visualization of the backtracking algorithm
 * Created a simple UI so the game is playable as well
 
+**POSSIBLY LINK TO ANOTHER GITHUB PAGES SITE FOR THIS PROJECT?**
+
 ## [Currency market trading algorithms](poster.pdf)
+* Created sets of algorithmic rules to attempt to extract profit from currency markets
+* Created ggplot2 visualizations of results
+* Cleaned/transformed currency data 
 
 
 You can use the [editor on GitHub](https://github.com/rluedde/rluedde.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
