@@ -3,6 +3,7 @@
 * Gained a deeper understanding of how machine learning algorithms work
 * Implemented gradient descent and differentiation as methods of LR paramater estimation
 * Learned about n-dimensional space and matrix algebra/calculus
+* Used map and reduce for increased code readability
 
 **IMAGE OF MY CLUSTERING SIDE BY SIDE WITH THE ACTUAL CLUSTERS!!!**
 
