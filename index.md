@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+
+## [Linear regression and k-means from scrath in numpy](https://github.com/rluedde/ml_algorithms)
+* Gained a deeper understanding of how machine learning algorithms work
+* Implemented gradient descent and differentiation as methods of LR paramater estimation
+* Learned about n-dimensional space and matrix algebra/calculus
+
+## [Sudoku solver/game](https://github.com/rluedde/sudoku)
+* Implemented a backtracking algorithm to solve sudoku puzzles
+* Created a visualization of the backtracking algorithm
+* Created a simple UI so the game is playable as well
+
+## [Currency market trading algorithms](poster.pdf)
+
 
 You can use the [editor on GitHub](https://github.com/rluedde/rluedde.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
