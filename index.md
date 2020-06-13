@@ -1,9 +1,9 @@
 
 ## [Linear regression and k-means clustering with numpy](https://github.com/rluedde/ml_algorithms)
-* Gained a deeper understanding of how machine learning algorithms work
-* Implemented gradient descent and differentiation as methods of LR paramater estimation
 * Learned about n-dimensional space and matrix algebra/calculus
 * Used map and reduce for increased code readability
+* Improved numpy skills
+* Implemented gradient descent and differentiation as methods of LR paramater estimation
 
 **IMAGE OF MY CLUSTERING SIDE BY SIDE WITH THE ACTUAL CLUSTERS!!!**
 
