@@ -5,7 +5,7 @@
 * Improved numpy skills
 * Implemented gradient descent and differentiation as methods of LR paramater estimation
 
-**IMAGE OF MY CLUSTERING SIDE BY SIDE WITH THE ACTUAL CLUSTERS!!!**
+![Actual species grouping versus what K-means predicts](k_means_visual.png)
 
 ## [Sudoku solver/game](https://github.com/rluedde/sudoku)
 * Implemented a backtracking algorithm to solve sudoku puzzles
