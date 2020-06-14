@@ -5,7 +5,8 @@
 * Improved numpy skills
 * Implemented gradient descent and differentiation as methods of LR paramater estimation
 
-![Actual species grouping versus what K-means predicts](k_means_visual.png)
+![](/images/k_means_visual.png)
+**Actual species grouping versus what K-means predicts**
 
 ## [Sudoku solver/game](https://github.com/rluedde/sudoku)
 * Implemented a backtracking algorithm to solve sudoku puzzles
@@ -14,7 +15,7 @@
 
 **POSSIBLY LINK TO ANOTHER GITHUB PAGES SITE FOR THIS PROJECT?**
 
-## [Currency market trading algorithms](poster.pdf)
+## [Currency market trading algorithms](images/poster.pdf)
 * Created sets of algorithmic rules to attempt to extract profit from currency markets
 * Created ggplot2 visualizations of results
 * Cleaned/transformed currency data 
