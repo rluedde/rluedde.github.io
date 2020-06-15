@@ -4,6 +4,7 @@
 * Learned about n-dimensional space and matrix algebra/calculus
 * Used map and reduce for increased code readability
 * Implemented gradient descent and differentiation as methods of regression paramater estimation
+* Applied k-means to the infamous iris dataset with the intent of predicting the species clusters:
 
 **Actual species grouping versus what K-means predicts**
 
