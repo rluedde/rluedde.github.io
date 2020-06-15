@@ -8,6 +8,10 @@
 ![](/images/k_means_visual.png)
 **Actual species grouping versus what K-means predicts**
 
+![](/images/lin_reg_visual.png)
+**Predictions of make on test data using each estimation type**
+
+
 ## [Sudoku solver/game](https://github.com/rluedde/sudoku)
 * Implemented a backtracking algorithm to solve sudoku puzzles
 * Created a visualization of the backtracking algorithm
