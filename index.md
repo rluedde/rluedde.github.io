@@ -5,11 +5,14 @@
 * Used map and reduce for increased code readability
 * Implemented gradient descent and differentiation as methods of regression paramater estimation
 
-![](/images/k_means_visual.png)
 **Actual species grouping versus what K-means predicts**
 
+
+![](/images/k_means_visual.png)
+
+**Regression models on test data using each estimation type**
+
 ![](/images/lin_reg_visual.png)
-**Predictions of make on test data using each estimation type**
 
 
 ## [Sudoku solver/game](https://github.com/rluedde/sudoku)
