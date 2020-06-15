@@ -1,9 +1,9 @@
 
 ## [Linear regression and k-means clustering with numpy](https://github.com/rluedde/ml_algorithms)
+* Wrote these algorithms entirely from scratch
 * Learned about n-dimensional space and matrix algebra/calculus
 * Used map and reduce for increased code readability
-* Improved numpy skills
-* Implemented gradient descent and differentiation as methods of LR paramater estimation
+* Implemented gradient descent and differentiation as methods of regression paramater estimation
 
 ![](/images/k_means_visual.png)
 **Actual species grouping versus what K-means predicts**
