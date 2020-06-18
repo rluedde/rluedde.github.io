@@ -17,11 +17,10 @@
 
 
 ## [Sudoku solver/game](https://github.com/rluedde/sudoku)
-* Implemented a backtracking algorithm to solve sudoku puzzles
-* Created a visualization of the backtracking algorithm
-* Created a simple UI so the game is playable as well
-
-**POSSIBLY LINK TO ANOTHER GITHUB PAGES SITE FOR THIS PROJECT?**
+* **PROJECT IN PROGRESS!**
+* Implement a backtracking algorithm to solve sudoku puzzles
+* Creating a visualization of the backtracking algorithm
+* Creating a simple UI so the game is playabl
 
 ## [Currency market trading algorithms](images/poster.pdf)
 * Created sets of algorithmic rules to attempt to extract profit from currency markets
