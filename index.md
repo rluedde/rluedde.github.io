@@ -18,7 +18,7 @@
 
 ## [Sudoku solver/game](https://github.com/rluedde/sudoku)
 * **PROJECT IN PROGRESS!**
-* Implement a backtracking algorithm to solve sudoku puzzles
+* Implementing a backtracking algorithm to solve sudoku puzzles
 * Creating a visualization of the backtracking algorithm
 * Creating a simple UI so the game is playabl
 
