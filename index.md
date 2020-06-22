@@ -20,7 +20,7 @@
 * In the visualizer, each book is represented by a rectangle with length proportional to the
 corresponding book's length
 - [x] Scrape data
-- [ ] Get object class set up for indivudal Books and a collection of them (a Library)
+- [x] Get classes set up for indivudal Books
 - [ ] Build bubble sort algorithm to sort the books
 - [ ] Once the framework is stable, add other algorithms: quick sort, insertion sort, merge sort, etc.
 
