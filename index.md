@@ -21,8 +21,9 @@
 corresponding book's length
 - [x] Scrape data
 - [x] Get classes set up for indivudal Books
-- [ ] Build bubble sort algorithm to sort the books
+- [x] Build bubble sort algorithm to sort the books
 - [ ] Once the framework is stable, add other algorithms: quick sort, insertion sort, merge sort, etc.
+- [ ] Get some gifs up on this website. That might not be possible but it'd sure be cool.
 
 
 ## [Sudoku Solver and Game](https://github.com/rluedde/sudoku)
