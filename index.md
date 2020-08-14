@@ -22,11 +22,9 @@ corresponding book's length
 - [x] Scrape data
 - [x] Get classes set up for indivudal Books
 - [x] Build bubble sort algorithm to sort the books
-- [ ] Add click functionality - you click on a block and it shows you the title, author, and page
-count
-- [ ] Once the framework is stable, add other algorithms: quick sort, insertion sort, merge sort, etc.
-- [ ] Get some gifs up on this website. That might not be possible but it'd sure be cool.
-- [ ] Add some HTML/CSS in order to make the page look better
+- [x] Add QuickSort
+- [ ] Once the framework is stable, add other algorithms: insertion sort, merge sort, etc.
+- [ ] Get project hosted
 
 
 ## [Sudoku Solver and Game](https://github.com/rluedde/sudoku)
@@ -37,6 +35,7 @@ count
 - [x] Build basic HTML/CSS GUI
 - [X] Implement sudoku logic to where game is playable by a person
 - [ ] Add backtracking algorithm to solve/create new boards
+- [ ] Make backtrcking algorithm watchable
 
 ## [Currency Market Trading Algorithms](images/poster.pdf)
 * Created sets of algorithmic rules to attempt to extract profit from currency markets
